@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809080318298",
+    "project_id": "wdun-bc747",
+    "storage_bucket": "wdun-bc747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809080318298:android:57aa0995f828139538ab63",
+        "android_client_info": {
+          "package_name": "com.wdun.wdun_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3ELeKG2geVxl7sOeZhcFMvSvteidew4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
